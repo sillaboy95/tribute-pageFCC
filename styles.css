@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+html {
+    height: 100%;
+   
+}
+
+body {
+    background-color: black;
+}
+
+#main {
+   color: white; 
+   text-align: center;
+}
+
+#title {
+    font-size: 65px;
+    margin-top: 40px;
+    font-family: 'Anton', sans-serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    
+}
+
+#nike-image {
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 12%;
+}
+
+#img-div {
+   
+    background-color: darkred;
+    color: darkred;
+    width: 884px;
+    height: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+    margin-top: 20px;
+    
+}
+
+#image {
+    max-width: 99%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    border-style: solid;
+    border-color: darkred;
+    display: block;
+    height: auto;
+    
+}
+
+#img-caption {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-size:14px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#timeline-title {
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#tribute-info {
+    margin-top: 40px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+    margin: 10px;
+    font-size: 15px; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+
